@@ -1,6 +1,7 @@
 # challenge-coolstrings
 
 isPalindrome
+ 
  Returns true if the input is a palindrome.
  A palindrome is a string that is the same forwards and backwards.
 
@@ -8,6 +9,7 @@ isPalindrome
  Empty string should return true
 
 isAnagram
+ 
  Returns true if the inputs are anagrams
  Anagrams are two strings with the same characters arranged differently
    (i.e., "Customers" and "store scum"
